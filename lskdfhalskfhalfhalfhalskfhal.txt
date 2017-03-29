@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 fgsdfgsdfg
 second line by kejia
 add conflict by kejia
+=======
+
+fgsdfgsdfg
+second line by kejia
+lucass line 
+>>>>>>> 26876154cc1707e4bc735d001700165cc6f627a1
